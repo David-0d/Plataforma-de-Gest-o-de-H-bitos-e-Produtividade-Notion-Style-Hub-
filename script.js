@@ -1,0 +1,1 @@
+console.log("Notion Personal Hub inicializado com sucesso.");
